@@ -11,6 +11,8 @@ This model was trained on the most recent version of the en2ko_hiphop dataset (~
 
 Hyperparameters are specified below. 
 
+For more extensive write-ups about this model, visit [these](https://complete-cowbell-18a.notion.site/Aug-2023-Fine-Tuning-En2Ko-Translation-Models-ff4240408e4a481ca7579b8360d0b41f?pvs=4) [three](https://complete-cowbell-18a.notion.site/Aug-2023-Fine-Tuning-En2Ko-Translation-Models-Part-2-afa6079679a440e58ff301fefe1eedc3?pvs=4) [pages](https://complete-cowbell-18a.notion.site/Sep-2023-Zero-Shot-Few-Shot-Translation-with-GPT-3-5-76752b2ffee04f469332b373de73bfa1?pvs=4) in order.
+
 # Training Result
 
 <img width="547" alt="Screen Shot 2023-08-27 at 2 57 32 PM" src="https://github.com/sungmogi/en2ko_hiphop_small100/assets/131221622/d9660c55-4461-4f5b-9417-d3b6d47acebe">
