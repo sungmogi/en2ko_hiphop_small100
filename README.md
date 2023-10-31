@@ -2,6 +2,7 @@
 
 # Model Description
 **en2ko_hiphop_small-100** is a fine-tuned version of [SMaLL-100](https://huggingface.co/alirezamsh/small100) on [en2ko_hiphop](https://huggingface.co/datasets/sungmogi/en2ko_hiphop) dataset. 
+The en2ko_hiphop_small-100 model can be found [here](https://huggingface.co/sungmogi/en2ko_hiphop_small-100) and the hosted inference API is also available. 
 
 # Introduction
 SMaLL-100 is a distilled version of M2M100. SMaLL-100 was pre-trained on supervised data of parallel texts in ~100 different languages. In pre-training, its loss was calculated based on cross-entropy loss and knowledge distillation loss from M2M100, which is a much larger model. SMaLL-100 was also trained on data that is perfectly balanced across all languages. This allows SMaLL-100 to perform well in translations that involve languages that are relatively low-resource. 
